@@ -16,6 +16,10 @@ QuickBite Food Delivery is a local business that delivers fast food to customers
 Mission Statement:
 To deliver fast, affordable, and reliable food services that satisfy customers anytime and anywhere.
 
+Vision Statement:
+To become the leading local food delivery business known for convenience and one of the top food delivery services in South Africa.
+
+
 Target Audience:
 •	Students
 •	Busy families
@@ -27,7 +31,7 @@ Target Audience:
 ## Website Goals and Objectives
 
        Goals:
-•	To allow customers to order food online 
+•	Make it easier for customers to place and track orders.
 •	Provide an accessible ordering system
 •	Increase brand awareness
 
@@ -39,26 +43,40 @@ Target Audience:
 
 
       Key Performance Indicators:
-•	Website traffic
-•	Number of placed orders
-•	Retention rate of customers
-•	Average order value
+•	Website traffic: 900+ visitors /month
+•	Number of placed orders: 300+ orders/month
+•	Retention rate of customers: 70% returning customers
+•	Average order value: R150 per order
+
 
 
 ## Timeline and Milestones
 
-TASK	                TIME
-RESEARCH AND PLANNING	1 Week
-DESIGN	                1 Week
-DEVELOPMENT         	2 Weeks
-TESTING              	1 Week
-FINAL SUBMISSION     	1 Week
+TASK	                 DURATION	 DATE
+RESEARCH AND PLANNING	1 Week	2 – 6 May
+DESIGN             	1 Week	7 - 11 May
+DEVELOPMENT       	2 Weeks	12 – 25 May
+TESTING           	1 Week	26 – 1 June
+FINAL SUBMISSION   	1 Week	2 June
+
 
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (
+![Website Sitemap](img/mysitemap.png) <br> (![Website Sitemap](sitemap-1.png) )
 
 ## References
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+
+Uber Eats (2026) Uber Eats South Africa. Available at:
+http://www.ubereats.com/za (Accessed: 10 April 2026).
+
+Bolt Food (2026) Bolt Food South Africa. Available at:
+http://food.bolt.eu (Accessed: 10 April 2026).
+
+Interaction Design Foundation (2024) User Experience (UX) Design Basics. Available at:
+http://www.interaction-design.org (Accessed: 11 April 2026)
+
+draw.io (2026) draw.io Diagramming Tool. Available at:
+https://app.diagrams.net (Accessed:18 April 2026)
