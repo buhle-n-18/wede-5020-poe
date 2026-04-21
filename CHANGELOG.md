@@ -5,11 +5,19 @@ All notable changes to this project will be documented in this file.
 This project follows Semantic Versioning.
 
 ## [1.0.0] 
-### Added
-- xyz
+### - logo.png - 2026-04-20
+- burger1.png
+- burger2.png
+- burger3.png
+- pizza1.png
+- pizza2.png
+- drink2.png
+- drink3.png
+  
 
-### Changed
-- xyz
+### Changed - 2026-04-21
+- deleted drink1.png 
+
 
 ### Fixed
 - xyz
