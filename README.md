@@ -53,12 +53,13 @@ Target Audience:
 ## Timeline and Milestones
 
 TASK	                 DURATION	 DATE
-RESEARCH AND PLANNING	1 Week	2 – 6 May
-DESIGN             	1 Week	7 - 11 May
-DEVELOPMENT       	2 Weeks	12 – 25 May
-TESTING           	1 Week	26 – 1 June
-FINAL SUBMISSION   	1 Week	2 June
-
+RESEARCH AND PLANNING	1 Week	2 – 8 May
+WIREFRAMES & DESIGN	1 Week	9 - 15 May
+WEBSITE DEVELOPMENT	2 Weeks	16 – 29 May
+TESTING & DEBUGGING	1 Week	30 May – 5 June
+DEPLOYMENT	            2 Days	6 – 7 June
+FINAL DOCUMENTATION &
+SUBMISSION	            2 Days	8 – 9 June
 
 
 ## Sitemap
@@ -80,3 +81,9 @@ http://www.interaction-design.org (Accessed: 11 April 2026)
 
 draw.io (2026) draw.io Diagramming Tool. Available at:
 https://app.diagrams.net (Accessed:18 April 2026)
+
+W3Schools (2026) *Responsive Web Design*. Available at: 
+https://www.w3schools.com/css/css_rwd_intro.asp (Accessed: 28 May 2026)
+
+MDN Web Docs (2026) *CSS Grid Layout*. Available at: 
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout (Accessed: 28 May 2026)
