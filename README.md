@@ -66,6 +66,13 @@ SUBMISSION	            2 Days	8 – 9 June
 
 ![Website Sitemap](img/mysitemap.png) <br> (![Website Sitemap](sitemap-1.png) )
 
+## Screenshots of homepage on desktop, tablet, and mobile:
+
+ ![homepage on desktop](desktop-view.png)
+ ![homepage on tablet](tablet-view.png) 
+ ![homepage on mobile](mobile-view.png)
+
+
 ## References
 
 Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
