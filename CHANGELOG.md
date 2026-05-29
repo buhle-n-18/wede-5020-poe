@@ -37,7 +37,18 @@ This project follows Semantic Versioning.
 - Feedback showed timeline was incomplete and didn’t cover full lifecycle.  
 
 **Evidence:**  
-- Updated timeline table in proposal document.  
+- Updated timeline table in proposal document. 
+
+TASK	                 DURATION	 DATE
+RESEARCH AND PLANNING	1 Week	2 – 8 May
+WIREFRAMES & DESIGN	    1 Week	9 - 15 May
+WEBSITE DEVELOPMENT	    2 Weeks	16 – 29 May
+TESTING & DEBUGGING	    1 Week	30 May – 5 June
+DEPLOYMENT	            2 Days	6 – 7 June
+FINAL DOCUMENTATION &
+SUBMISSION	            2 Days	8 – 9 June
+
+
 
 ---
 
@@ -52,9 +63,6 @@ This project follows Semantic Versioning.
 **Reason for Change:**  
 - Feedback required better structure, and responsive design.  
 
-**Evidence:**  
-- Screenshots of homepage on desktop, tablet, and mobile.  
-- GitHub commit message: “Improved HTML structure and added responsive CSS.”  
 
 
 ## Semantic Versioning
