@@ -14,14 +14,48 @@ This project follows Semantic Versioning.
 - pizza2.png
 - drink2.png
 - drink3.png
-  
 
+  
 ### Changed - 2026-04-21
 - deleted drink1.png 
 
 
 ### Fixed
 - xyz
+
+# Changelog
+
+## Date: 29/05/2026
+### Edited By: Buhle Michelle Nyathi
+
+**Section Updated:** Timeline  
+**Description of Changes:**  
+- Expanded timeline to include deployment and maintenance phases.  
+- Added “Post-launch monitoring – 2 weeks” and “Maintenance – ongoing monthly.”  
+
+**Reason for Change:**  
+- Feedback showed timeline was incomplete and didn’t cover full lifecycle.  
+
+**Evidence:**  
+- Updated timeline table in proposal document.  
+
+---
+
+## Date: 29/05/2026
+### Edited By: Buhle Michelle Nyathi
+
+**Section Updated:** HTML & CSS  
+**Description of Changes:**  
+- Inserted descriptive HTML comments for each section.  
+- Improved CSS with responsive media queries for mobile and tablet.  
+
+**Reason for Change:**  
+- Feedback required better structure, and responsive design.  
+
+**Evidence:**  
+- Screenshots of homepage on desktop, tablet, and mobile.  
+- GitHub commit message: “Improved HTML structure and added responsive CSS.”  
+
 
 ## Semantic Versioning
 
