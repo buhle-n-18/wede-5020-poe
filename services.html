@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="QuickBite fast food delivery in South Africa">
+    <meta name="keywords" content="food delivery, burgers, pizza, quickbite">
     <title>Menu</title>
    <link rel="stylesheet" href="css/style.css">
 </head>
@@ -29,28 +29,64 @@
 
         <section>
             <h1>Our Menu</h1>
+            
+            <!-- Search Bar -->
+        <input type="text" id="searchBar" placeholder="Search food..." onkeyup="searchMenu()">
 
             <h2>Burgers</h2>
-            <p>Chicken Burger - R45</p>
-            <p>Beef Burger - R55</p>
-            <img src="burger1.png">
-            <img src="burger2.png">
-            <img src="burger3.png">
+
+            <div class="menu-item" onclick="addToCart ('Chicken Burger', 45)">
+              <p>Chicken Burger - R45</p>
+            </div>
+
+            <div class="menu-item" onclick="addToCart('Beef Burger', 55)">
+               <p>Beef Burger - R55</p>
+            </div>
+            <img src="burger1.png" alt="Chicken Burger">
+            <img src="burger2.png" alt="Beef Burger">
+            <img src="burger3.png" alt="Beef Burger">
            
 
             <h2>Pizzas</h2>
-            <p>Pepperoni Pizza - R75</p>
-            <p>Margherita Pizza - R75</p>
-            <p>Hawaiian Pizza - R85</p>
-            <p>Veggie Supreme Pizza - R95</p>
+
+            <div class="menu-item" onclick="addToCart('Pepperoni Pizza', 75)">
+               <p>Pepperoni Pizza - R75</p>
+            </div>
+
+            <div class="menu-item" onclick="addToCart('Margherita Pizza', 75)">
+               <p>Margherita Pizza - R75</p>
+            </div>
+
+            <div class="menu-item" onclick="addToCart('Hawaiian Pizza', 85)">
+               <p>Hawaiian Pizza - R85</p>
+            </div>
+
+            <div class="menu-item" onclick="addToCart('Veggie Pizza', 95)">
+               <p>Veggie Supreme Pizza - R95</p>
+            </div>
             <img src="pizza1.png">
             <img src="pizza2.png">
 
             <h2>Drinks</h2>
-            <p>Juice - R14</p>
-            <p>Cooldrink - R25</p>
-            <img src="drink2.png">
-            <img src="drink3.png">
+
+            <div class="menu-item" onclick="addToCart('Juice', 14)">
+               <p>Juice - R14</p>
+            </div>
+
+            <div class="menu-item" onclick="addToCart('Cooldrink', 25)">
+               <p>Cooldrink - R25</p>
+            </div>
+
+            <img src="drink2.png" alt="Cooldrink">
+            <img src="drink3.png" alt="Juice">
+
+          <h2>Cart</h2>
+          <ul id="cart"></ul>
+
+          <p>Total: R<span id="total">0</span></p>
+
+          <button onclick="checkout()">Checkout</button>
+
         </section>
 
     </main>
@@ -65,5 +101,7 @@
             <a href="https://wa.me/27125832758"target="_blank">WhatsApp</a>
         </p>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
