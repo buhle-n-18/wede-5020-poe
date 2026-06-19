@@ -485,3 +485,26 @@ footer a:hover {
     grid-template-columns: 1fr;
   }
 }
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style: none;
+}
+
+/* Add it here */
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+
+
+
