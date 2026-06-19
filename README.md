@@ -68,9 +68,9 @@ SUBMISSION	            2 Days	8 – 9 June
 
 ## Screenshots of homepage on desktop, tablet, and mobile:
 
- ![homepage on desktop](desktop-view.png)
- ![homepage on tablet](tablet-view.png) 
- ![homepage on mobile](mobile-view.png)
+ ![homepage on desktop](desktop-view1.png)
+ ![homepage on tablet](tablet-view1.png)
+ ![homepage on mobile](mobile-view1.png)
 
 
 ## References
@@ -94,3 +94,11 @@ https://www.w3schools.com/css/css_rwd_intro.asp (Accessed: 28 May 2026)
 
 MDN Web Docs (2026) *CSS Grid Layout*. Available at: 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout (Accessed: 28 May 2026)
+
+Mozilla Developer Network (MDN) (2026) HTML Forms Guide. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms (developer.mozilla.org in Bing) (Accessed: 19 June 2026).
+
+Mozilla Developer Network (MDN) (2026) JavaScript DOM Manipulation. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model (developer.mozilla.org in Bing) (Accessed: 19 June 2026).
+
+W3Schools (2026) JavaScript Form Validation. Available at: https://www.w3schools.com/js/js_validation.asp (w3schools.com in Bing) (Accessed: 19 June 2026).
+
+
