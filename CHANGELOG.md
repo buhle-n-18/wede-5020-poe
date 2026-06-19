@@ -63,6 +63,55 @@ SUBMISSION	            2 Days	8 – 9 June
 **Reason for Change:**  
 - Feedback required better structure, and responsive design.  
 
+## Date: 19/06/2026
+
+Part 3
+
+
+# QuickBite Food Delivery - Changelog
+
+## Version 3.0 – Website Enhancements
+
+### Added
+
+* Added **search functionality** on the menu page to allow users to search for food items.
+* Added **add-to-cart functionality** so users can click menu items and add them to their cart.
+* Added **checkout button** to complete orders and display total price.
+* Added **Google Maps integration** on the contact page for location access.
+* Added **robots.txt** file for search engine indexing.
+* Added **sitemap.xml** file for website structure and SEO support.
+* Added **SEO meta tags** for better search engine optimization.
+* Added **alt text** to images for accessibility.
+
+### Updated
+
+* Updated the **Order Now** button on the homepage to link directly to the menu page.
+* Updated the enquiry form with proper structure and validation.
+* Updated menu items to be interactive and clickable.
+* Updated JavaScript file to support:
+
+  * Form validation
+  * Cart functionality
+  * Search filtering
+  * Checkout process
+
+### Improved
+
+* Improved website responsiveness for mobile devices.
+* Improved user experience with **CSS animations and transitions** on buttons.
+* Improved navigation consistency across all pages.
+* Improved overall interactivity and usability.
+
+### Fixed
+
+* Fixed broken **Submit button** on enquiry page.
+* Fixed broken **Order Now button** on homepage.
+* Fixed HTML syntax errors in forms.
+* Fixed missing JavaScript links.
+
+## Author
+
+Buhle Nyathi
 
 
 ## Semantic Versioning
